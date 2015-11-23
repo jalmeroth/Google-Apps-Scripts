@@ -1,0 +1,1 @@
+Generate a unique ID-string based on your input.
